@@ -1,32 +1,44 @@
 [
   {
-    "name": "小钉注入包_测试版.zip",
-    "desc": "这是小钉注入器的测试资源包，包含基础注入文件",
+    "displayName": "小钉注入基础包",
+    "fileName": "xiaoding_base_v1.0.zip",
+    "desc": "小钉注入器核心功能包，包含基础注入文件，适配最新版本游戏",
     "version": "v1.0.0",
     "url": "https://223-109-125-249.pd1.cjjd19.com/user-share-free-download-cdn.123295.com/123-404/266403ae/1816558413-0/266403ae8070ecba37fcccef6de05594/c-m900?v=5&t=1777641363&r=VGULET&bzc=2&bzs=313831363535383431333a31363431353437383a39343739313236353a313831363535383431333a3130&ur=vnmgvalgvmigavp&urn=0&s=177764136371d91713a9620749bffec8dc63fc9284&bzp=0&bi=1564531969&filename=%E6%B5%AA%E7%BE%BD%E5%85%A8%E6%98%BE%E5%8D%95%E5%86%85%E9%80%8F%E3%80%90%E7%BB%BF%E8%89%B2%E3%80%91.zip&x-mf-biz-cid=9cc30bd3-d2da-411d-b587-241d6393e475-c4937c&auto_redirect=0&ndcp=1&cache_type=1"
   },
   {
-    "name": "PUBG国际服_功能包.zip",
-    "desc": "PUBG Mobile国际服功能注入包，包含透视、自瞄等功能",
+    "displayName": "PUBG国际服透视自瞄",
+    "fileName": "pubg_esp_aimbot_v2.3.zip",
+    "desc": "PUBG Mobile国际服多功能注入包，包含透视显示、自动瞄准、无后坐力等高级功能",
     "version": "v2.3.1",
-    "url": "https://example.com/files/pubg_pack.zip"
+    "url": "https://example.com/files/pubg_esp_aimbot_v2.3.zip"
   },
   {
-    "name": "游戏原版还原包.zip",
-    "desc": "用于还原游戏原始文件的安全包",
+    "displayName": "游戏原版还原包",
+    "fileName": "original_game_restore.zip",
+    "desc": "用于还原游戏原始文件的安全还原包，恢复游戏至初始状态",
     "version": "v1.0.0",
-    "url": "https://example.com/files/restore.zip"
+    "url": "https://example.com/files/original_game_restore.zip"
   },
   {
-    "name": "全步枪后坐力优化.zip",
-    "desc": "优化所有步枪后坐力，提升射击稳定性",
+    "displayName": "全步枪后坐力优化",
+    "fileName": "recoil_optimizer_v1.2.zip",
+    "desc": "优化所有步枪后坐力参数，提升射击精准度和稳定性，支持全系列步枪",
     "version": "v1.2.0",
-    "url": "https://example.com/files/recoil.zip"
+    "url": "https://example.com/files/recoil_optimizer_v1.2.zip"
   },
   {
-    "name": "画质增强补丁.zip",
-    "desc": "提升游戏画质，优化HDR效果",
+    "displayName": "高清画质增强补丁",
+    "fileName": "hd_graphics_patch_v2.0.zip",
+    "desc": "提升游戏画质至高清级别，优化HDR效果，增强光影渲染，让游戏画面更细腻",
     "version": "v2.0.5",
-    "url": "https://example.com/files/graphics.zip"
+    "url": "https://example.com/files/hd_graphics_patch_v2.0.zip"
+  },
+  {
+    "displayName": "全武器皮肤解锁包",
+    "fileName": "all_skins_unlocker.zip",
+    "desc": "解锁全部武器皮肤，包含稀有和限定皮肤，视觉效果炫酷",
+    "version": "v3.0.0",
+    "url": "https://example.com/files/all_skins_unlocker.zip"
   }
 ]
